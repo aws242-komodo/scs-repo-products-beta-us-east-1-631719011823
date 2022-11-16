@@ -1,1 +1,1 @@
-{"Resources":{"myWaitHandle":{"Type":"AWS::CloudFormation::WaitConditionHandle","Properties":{},"Metadata":{"UpdatedToken":"13b62aff-954d-4c0f-b6dc-aaea2054c780-1668539307766"}}}}
+{"Resources":{"myWaitHandle":{"Type":"AWS::CloudFormation::WaitConditionHandle","Properties":{},"Metadata":{"UpdatedToken":"95e5c6ea-deb4-4388-b91b-7f68531bee5e-1668620084402"}}}}
